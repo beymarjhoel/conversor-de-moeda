@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+.container {
+  text-align: center;
+}
+
+.dinheiro-img {
+  width: 20rem;
+  height: 15rem;
+  border-radius: 2rem;
+}
+
+.valorInicial {
+  border-radius: 0.5rem;
+  width: 25rem;
+  height: 5rem;
+  font-size: 4rem;
+}
