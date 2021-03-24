@@ -52,7 +52,7 @@ function euroParaEuro() {
 
 function euroParaDolar() {
     let resultado = document.querySelector('#resultado')
-    const cotacao = 1.1840 //obs no exactly
+    const cotacao = 1.1840 
 
     valorConvertido = parseFloat(valorInicial.value * cotacao)
     valorConvertido = valorConvertido.toFixed(2)
